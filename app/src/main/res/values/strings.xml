@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio3_pruebalogica</string>
+    <string name="ingresodatos">Ingrese texto</string>
+    <string name="validar">Validar</string>
+    <string name="si">Sí es palindromo</string>
+    <string name="no">No es palindromo</string>
+</resources>
